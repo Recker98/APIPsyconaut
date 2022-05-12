@@ -1,0 +1,45 @@
+{
+  "info": {
+    "count": 826,
+    "pages": 42,
+    "next": "https://rickandmortyapi.com/api/character/?page=2",
+    "prev": null
+  },
+  "results": [
+    {
+    "description": "Allows the user to see through the minds of others.",
+    "img": "https://psychonauts-api.herokuapp.com/images/api/clairvoyance.png",
+    "_id": "60a8a18f74e598888ff866a3",
+    "name": "clairvoyance",
+    "__v": 0
+  },
+  {
+    "description": "Allows the user to confuse enemies.",
+    "img": "https://psychonauts-api.herokuapp.com/images/api/confusion.png",
+    "_id": "60a8a18f74e598888ff866a4",
+    "name": "confusion",
+    "__v": 0
+  },
+  {
+    "description": "Allows the user to speak to plants.",
+    "img": "",
+    "_id": "60a8a18f74e598888ff866a5",
+    "name": "herbaphony",
+    "__v": 0
+  },
+  {
+    "description": "Allows the user to control the movement of water.",
+    "img": "https://psychonauts-api.herokuapp.com/images/api/hydrokinesis.png",
+    "_id": "60a8a18f74e598888ff866a6",
+    "name": "hydrokinesis",
+    "__v": 0
+  },
+  {
+    "description": "Allows the user to turn invisible for a short period of time.",
+    "img": "https://psychonauts-api.herokuapp.com/images/api/invisibility.png",
+    "_id": "60a8a18f74e598888ff866a7",
+    "name": "invisibility",
+    "__v": 0
+  }
+  ]
+}
