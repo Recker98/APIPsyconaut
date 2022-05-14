@@ -44,14 +44,14 @@ class MainActivity : AppCompatActivity() {
                     )
                     psyPowers.add(psyco)
                 }
-            },
+                adapter.notifyDataSetChanged()            },
             {
                 error("error")
                 makeText(this, "Error", LENGTH_LONG).show()
             }
         )
         queue.add(objectRequest)
-        adapter.notifyDataSetChanged()
+
     }
 
 }
